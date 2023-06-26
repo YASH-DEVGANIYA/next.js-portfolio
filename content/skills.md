@@ -71,4 +71,7 @@ skills:
 
   - name: "GraphQL"
     image: "graphql"
+
+  - name: "PostgreSQL"
+    image: "postgresql"
 ---
